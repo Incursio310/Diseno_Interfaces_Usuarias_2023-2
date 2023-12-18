@@ -1,0 +1,29 @@
+.chart-container {
+    display: block;
+    justify-content: center;
+    align-items: center;
+    background-color: aliceblue;
+    opacity: 0.9;
+    border-radius: 0.9rem;
+    border : 10px solid #000000;
+    box-shadow:15px 15px 15px 15px #000000 ;    
+    margin-left: 10px;
+  }
+  
+
+.list-container {
+    margin-top: 20px; /* Ajusta el margen superior según tus necesidades */
+}
+
+.list-container p {
+  font-size: 18px; /* Ajusta el tamaño de la fuente según tus necesidades */
+}
+
+.list-container ul {
+  list-style-type: none; /* Quita los estilos de lista por defecto */
+  padding: 0;
+}
+
+.list-container li {
+  font-size: 16px; /* Ajusta el tamaño de la fuente de los elementos de la lista según tus necesidades */
+}
